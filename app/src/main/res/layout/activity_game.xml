@@ -71,4 +71,12 @@
 
     </GridLayout>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnReset"
+        android:textSize="40dp"
+        android:layout_marginTop="30dp"
+        android:text="Reset"></Button>
+
 </LinearLayout>
